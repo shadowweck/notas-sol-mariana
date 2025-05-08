@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F8FF;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 100px;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 24px;
+    color: #000;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.student-info {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto 20px;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #006400;
+    color: #fff;
+}
+
+.note, .footnote {
+    margin: 10px 0;
+}
+
+#data-horario {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #000;
+}
